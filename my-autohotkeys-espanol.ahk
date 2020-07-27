@@ -70,7 +70,7 @@ toggle:
     ^0:: Send {F10}
     ^':: Send {F11}
 
-    ^+':: Send +{F11}    
+    ^+':: Send +{F11}
 
     !1:: Send !{F1}
     !2:: Send !{F2}
