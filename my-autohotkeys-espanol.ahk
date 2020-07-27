@@ -84,8 +84,8 @@ toggle:
     !0:: Send {media_play_pause}
     !':: Send {media_next}
 
-    <^>!z:: Send {>}
-    <^>!x:: Send {<}
+    <^>!z:: Send {<}
+    <^>!x:: Send {>}
 
     +BS:: Send {Del}
     +^BS:: Send ^{Del}
