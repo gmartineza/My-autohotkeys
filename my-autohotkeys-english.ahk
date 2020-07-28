@@ -90,6 +90,7 @@ toggle:
     !9:: Send {media_prev}
     !0:: Send {media_play_pause}
     !-:: Send {media_next}
+    !=:: Send !{F12}
 
     +BS:: Send {Del}
     +^BS:: Send ^{Del}
