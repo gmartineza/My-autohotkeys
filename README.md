@@ -10,3 +10,7 @@ To make the script run at boot, you need to make a file shortcut in the startup 
 1. Press `Win+R`.
 2. Type `shell:startup` in the Run window. 
 3. While holding `alt`, drag and drop the .ahk script to the folder.
+
+___
+
+You can suspend this script by right-clicking on the green H on your taskbar, and then clicking "My autohotkeys" (there's a tick indicating the status of the script).
