@@ -53,11 +53,6 @@ toggle:
     <^j:: Send !{Left}
     <^l:: Send !{Right}
 
-    !#i:: Send #{Up}
-    !#j:: Send #{Left}
-    !#k:: Send #{Down}
-    !#l:: Send #{Right}
-
     ^1:: Send {F1}
     ^2:: Send {F2}
     ^3:: Send {F3}
