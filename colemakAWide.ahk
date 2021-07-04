@@ -48,13 +48,20 @@ m::k
 .::,
 /::.
 ; AltGr tildes a.k.a: multilingual
-<^>!k::Send {U+00F1} ; ñ
-<^>!a::Send {U+00E1} ; á
-<^>!l::Send {U+00E9} ; é
-<^>!`;::Send {U+00ED} ;í
-<^>!'::Send {U+00F3} ; ó
-<^>!o::Send {U+00FA} ; ú
-<^>!p::Send {U+00FC} ; ü
+>!k::Send {U+00F1} ; ñ
+>!a::Send {U+00E1} ; á
+>!l::Send {U+00E9} ; é
+>!`;::Send {U+00ED} ;í
+>!'::Send {U+00F3} ; ó
+>!o::Send {U+00FA} ; ú
+>!p::Send {U+00FC} ; ü
++>!k::Send {U+00D1} ; Ñ
++>!a::Send {U+00C1} ; Á
++>!l::Send {U+00C9} ; É
++>!`;::Send {U+00CD} ;Í
++>!'::Send {U+00D3} ; Ó
++>!o::Send {U+00DA} ; Ú
++>!p::Send {U+00DC} ; Ü
 
 ; Media control
 <!q:: Send {Volume_Up}
