@@ -8,11 +8,11 @@ To make the script run at boot, you need to make a file shortcut in the startup 
 
 1. Press `Win + r`.
 2. Type `shell:startup` in the Run window. 
-3. While holding `Alt`, drag and drop the `my-autohotkeys-english.ahk` file to the folder that step 2 opened.
+3. While holding `Alt`, drag and drop your desired file to the folder that step 2 opened.
 
 ___
 
-You can suspend this script by right-clicking on the green H on your taskbar, and then clicking "My autohotkeys" (there's a tick indicating the status of the script).
+You can suspend any of this scripts by right-clicking the green H on your taskbar, then clicking "Suspend Hotkeys" (there's a tick indicating the status of the script).
 
 
 
@@ -31,4 +31,8 @@ Para iniciar el programa automáticamente desde el arranque, necesitas crear un 
 
 1. Presiona `Win + r`.
 2. Escribe `shell:startup` en la ventana Ejecutar.
-3. Mientras mantienes presionado `Alt`, arrastra el archivo `my-autohotkeys-espanol.ahk` a la carpeta que abrió el paso 2.
+3. Mientras mantienes presionado `Alt`, arrastra el archivo deseado a la carpeta que abrió el paso 2.
+
+___
+
+Se puede suspender cualquiera de estos scripts haciendo click derecho en la H con recuadro verde en su barra de tareas, y luego apretando "Suspend Hotkeys" (hay un tick indicando el estado del script).
