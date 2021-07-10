@@ -64,9 +64,9 @@ m::k
 +>!p::Send {U+00DC} ; Ü
 
 ; Media control
-<!q:: Send {Volume_Up}
-<!a:: Send {Volume_Down}
-<!+a:: Send {Volume_Mute}
-<!w:: Send {Media_Prev}
-<!s:: Send {Media_Next}
-<!+s:: Send {Media_Play_Pause}
+<!w:: Send {Volume_Up}
+<!a:: Send {Media_Prev}
+<!s:: Send {Volume_Down}
+<!d:: Send {Media_Next}
+<!q:: Send {Volume_Mute}
+<!e:: Send {Media_Play_Pause}
