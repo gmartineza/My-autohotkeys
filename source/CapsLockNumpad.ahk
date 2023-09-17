@@ -1,4 +1,5 @@
-﻿#SuspendExempt
+﻿#SingleInstance
+#SuspendExempt
 LAlt & RAlt::Suspend
 #SuspendExempt False
 
