@@ -43,10 +43,6 @@ LAlt & RAlt:: Suspend
     !d:: Send {Media_Next}
     !q:: Send {Volume_Mute}
     !e:: Send {Media_Play_Pause}
-
-    ;Useful function keys
-    ^5::   Send {F5}
-    !4::   Send !{F4}
 #If
 
 ; Text edition
