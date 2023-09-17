@@ -30,6 +30,56 @@ Win + 4 | Delete current desktop
 AltGr + z or Right Ctrl + Left Alt + z| <
 AltGr + x or Right Ctrl + Left Alt + x| >
 
+### vim-autohotkeys.ahk
+
+Input | Output
+----- | ------
+Alt + h | Left
+Alt + j | Down
+Alt + k | Up
+Alt + l | Right
+Alt + y | Home
+Alt + o | End
+Alt + q | Volume mute
+Alt + w | Volume up
+Alt + e | Media play/pause
+Alt + a | Media previous
+Alt + s | Volume down
+Alt + d | Media Next
+Shift + Backspace | Delete
+Shift + Space | Enter
+Win + d | Create virtual desktop
+Win + 1 | Show left desktop
+Win + 2 | Show right desktop
+Win + 4 | Delete current desktop
+AltGr + z or Right Ctrl + Left Alt + z| <
+AltGr + x or Right Ctrl + Left Alt + x| >
+
+### capslock-numpad.ahk
+
+Input | Output
+----- | ------
+CapsLock + u | Home
+CapsLock + i | Up
+CapsLock + o | PgUp
+CapsLock + j | Left
+CapsLock + k | Down
+CapsLock + l | Right
+CapsLock + m | End
+CapsLock + , | Delete
+CapsLock + . | Page down
+
+### media-control.ahk
+
+Input | Output
+----- | ------
+Left Alt + q | Volume mute
+Left Alt + w | Volume up
+Left Alt + e | Media play/pause
+Left Alt + a | Media previous
+Left Alt + s | Volume down
+Left Alt + d | Media next
+
 ## Suspend scripts
 
 Press `Left Alt + Right Alt`, or:  
